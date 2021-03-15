@@ -23,18 +23,18 @@
 
 ### Demonstração de funcionalidade
 
-  - Tela inicial do app 
-    ![start](https://link)
+  - Tela inicial do app <br>
+    ![start](https://github.com/Davidfdesousa/app-gerador-de-senha/blob/master/src/assets/img/prints/01-tela-inicial.png) <br><br>
 
-  - Escolhendo a quantidade de caracteres ( dentre 5 a 15 caracteres )
-    ![alt](https://link)
+  - Escolhendo a quantidade de caracteres ( dentre 5 a 15 caracteres ) <br>
+    ![alt](https://github.com/Davidfdesousa/app-gerador-de-senha/blob/master/src/assets/img/prints/02-escolhendo-tamanho-de-senha.png) <br><br>
 
-  - Clicando no botão "gerar senha" assim gerando uma nova senha
-    ![alt](https://link)
+  - Clicando no botão "gerar senha" assim gerando uma nova senha <br>
+    ![alt](https://github.com/Davidfdesousa/app-gerador-de-senha/blob/master/src/assets/img/prints/03-gerando-senha.png) <br><br>
 
-  - Copiando senha criada: 
-  Clincando em cima da senha e pressionando durante 3 segundos até aparecer a mensagem "senha copiada com sucesso!" 
-    ![copiar a senha](https://link)
+  - Copiando senha criada:  <br>
+  Clincando em cima da senha e pressionando durante 3 segundos até aparecer a mensagem "senha copiada com sucesso!" <br>
+    ![copiar a senha](https://github.com/Davidfdesousa/app-gerador-de-senha/blob/master/src/assets/img/prints/04-copiando-senha.png) <br><br>
 
 
 
