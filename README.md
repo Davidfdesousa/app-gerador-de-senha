@@ -11,12 +11,8 @@
 
 # Getting started
 
-### instalando o Node js
-  ``` npm install ``` ou ``` yarn install ```
-
 ### instalando o Expo 
 ``` npm install expo-cli --global ``` ou ```yarn add expo-cli --global ```
-
 
 # Iniciando Projeto
   ```expo start ```
