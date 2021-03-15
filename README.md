@@ -1,11 +1,16 @@
-# App gerador de senhas ramdômicas
+# App gerador de senhas randômicas
 
-## Gere uma senha randôminca de 5 a 15 caracteres em um clique.
+### Aplicativo gerador de senhas aleatorias com a opção de escolher dentre 5 a 15 caracteres.
 
-# Getting Started
-
+# Requisitos
   - Node 12+
-  - Expo
+  - Expo 
+  - Android Studio ( Para emular um aparelho )
 
+# Getting started
+  ``` npm install ``` ou ``` yarn install ```
 
+# Iniciando Projeto
+  ```expo start ```
 
+  
